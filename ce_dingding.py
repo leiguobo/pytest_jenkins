@@ -100,5 +100,4 @@ body={
  }
 r2=requests.post(url,headers=headers,json=body2,verify=False)
 r=requests.post(url,headers=headers,json=body,verify=False)
-print('add to some code')
 
